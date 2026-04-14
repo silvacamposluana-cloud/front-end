@@ -1,0 +1,13 @@
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>formatação de texto</title>
+<style> /* para mudar o estilo do texto*/
+mark {
+background-color: rgb(27, 199, 27);
+}
+</style>
+</head>
+<body>
+    <b>Hoje</b> <i>Estou</i> <mark>Prova</mark> <ins>Front end</ins>
